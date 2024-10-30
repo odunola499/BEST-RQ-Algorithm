@@ -1,6 +1,6 @@
 # Conformer Encoder Pretraining with Best-RQ Algorithm
 
-This repository provides the code to pretrain a 120M Conformer encoder using the **Best-RQ** algorithm. The Best-RQ approach offers a simpler and more compute-efficient pretraining strategy for audio speech language models compared to contrastive learning methods like **wav2vec2**. This implementation is built using **PyTorch Lightning** and is designed to be easily extensible for different datasets and configurations.
+This repository provides the code to pretrain a 120M Conformer encoder using the **Best-RQ** algorithm. The Best-RQ approach offers a simpler and more compute-efficient pretraining strategy for audio speech language models compared to contrastive learning methods like **wav2vec2**. The training code is built using **PyTorch Lightning** and is designed to be easily extensible for different datasets and configurations.
 
 ## Features
 - **Pretraining Approach**: Leverages the Best-RQ algorithm for pretraining.
