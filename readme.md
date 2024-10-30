@@ -12,8 +12,8 @@ This repository provides the code to pretrain a 120M Conformer encoder using the
 
 1. **Clone this repository**:
    ```bash
-   git clone <REPO_URL>
-   cd <REPO_NAME>
+   git clone https://github.com/odunola499/BEST-RQ-Algorithm.git
+   cd BEST-RQ-Algorithm
 2. **Run the training script**:
     ```bash
     pip install -r requirements.txt
