@@ -1,0 +1,7 @@
+torch==2.5.1
+transformers
+datasets
+torchaudio
+einops
+lightning
+wandb
